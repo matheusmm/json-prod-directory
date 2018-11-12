@@ -1,7 +1,7 @@
 {
 "produtos":[
-{"Produto":"Produto X", "Descricao": "Faz A", "Codigo": "125abc"},
-{"Produto":"Produto Y", "Descricao": "Faz B", "Codigo": "23x4A"},
-{"Produto":"Produto Z","Descricao": "Faz C","Codigo": "D26AC"}
+{"produto":"produto-X", "descricao": "Faz A", "codigo": "125abc"},
+{"produto":"produto-Y", "descricao": "Faz B", "codigo": "23x4A"},
+{"produto":"produto-Z","descricao": "Faz C","codigo": "D26AC"}
   ]
 }
